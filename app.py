@@ -10,7 +10,7 @@ myfavoritecolor='#C74A2F' # More colors are here: https://htmlcolorcodes.com/
 x_list=['giraffes', 'elephants', 'monkeys']
 y_list=[5, 2, 7]
 mytitle='My favorite animals'
-githublink='https://github.com/austinlasseter/zoo-animals-dash'
+githublink='https://github.com/austinlasseter/dash-zoo-animals'
 
 ########### Set up the chart
 mydata = [go.Bar(x=x_list,
